@@ -1,0 +1,38 @@
+.section1 {
+    background-color: purple;
+    color: yellow;
+    font-family: comic 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+    width: 80%;
+    margin: 40px auto;
+    border: 5px solid gray;
+    box-shadow: 5px 10px #888888
+  }
+  
+.section2 {
+    background-color: blue;
+    color: orange;
+    width: 80%;
+    margin: 40px auto;
+    border: 5px solid gray;
+    box-shadow: 5px 10px #888888
+  }
+  
+.section3 {
+  background-color: blue;
+  color: orange;
+  width: 80%;
+  margin: 40px auto;
+  border: 5px solid gray;
+  box-shadow: 5px 10px #888888
+}
+.card {
+    width: 80%;
+    margin: 0 auto;
+    border: 5px solid gray;
+    box-shadow: 5px 10px #888888;
+    position: relative;
+  }
+
+  .title {
+    margin:auto
+  }
